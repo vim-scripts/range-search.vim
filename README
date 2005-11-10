@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1396
+
+The default vim search searches the entire file. This script allows a command called :'a,'eRs mypat (where 'a,'e is any range), that searches in only a specified range of lines within a file.
